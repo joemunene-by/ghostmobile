@@ -4,6 +4,14 @@
 
 <h1 align="center">ghostmobile</h1>
 
+<!-- ghostsuite-badges -->
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
+  <a href="https://github.com/joemunene-by/ghostsuite"><img src="https://img.shields.io/badge/part%20of-GhostSuite-6f42c1" alt="Part of GhostSuite"></a>
+</p>
+<!-- /ghostsuite-badges -->
+
 Static security analyzer for Android APK and iOS IPA packages. It unpacks a
 package (a zip archive), inspects the manifest, configuration, and metadata,
 and reports security issues with a severity and remediation guidance. Think of
