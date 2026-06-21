@@ -1,4 +1,8 @@
-# ghostmobile
+<p align="center">
+  <img src="assets/logo.svg" width="120" height="120" alt="ghostmobile logo">
+</p>
+
+<h1 align="center">ghostmobile</h1>
 
 Static security analyzer for Android APK and iOS IPA packages. It unpacks a
 package (a zip archive), inspects the manifest, configuration, and metadata,
