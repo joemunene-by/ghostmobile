@@ -164,3 +164,7 @@ CI runs `ruff check` and the test suite on Python 3.11 and 3.12.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+<sub>Part of <a href="https://github.com/joemunene-by/ghostsuite">ghostsuite</a>: eleven open-source security tools, one ghost.</sub>
